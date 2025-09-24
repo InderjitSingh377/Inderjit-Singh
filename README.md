@@ -1,2 +1,2 @@
 # Inderjit-Singh
-This is my First Repository.
+This is my First Github Repository.
